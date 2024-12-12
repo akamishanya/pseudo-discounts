@@ -1,3 +1,6 @@
 [submodule "scraper"]
 	path = scraper
 	url = git@github.com:akamishanya/pseudo-discounts-scraper.git
+[submodule "database"]
+	path = database
+	url = git@github.com:akamishanya/pseudo-discounts-database.git
